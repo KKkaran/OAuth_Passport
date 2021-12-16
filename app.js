@@ -14,9 +14,6 @@ app.get("/", (req,res)=>{
 
 router
 
-
-
-
 app.listen(3000, () =>{
     console.log("now listening on 3000 port!!")
 })
